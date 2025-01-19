@@ -1,11 +1,6 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import {
-    HiArrowRight,
-    HiCommandLine,
-    HiCheckCircle,
-    HiLockClosed,
-} from "react-icons/hi2";
+import { HiArrowRight } from "react-icons/hi2";
 import { ImageCarousel } from "./ImageCarousel";
 
 export function Hero() {
